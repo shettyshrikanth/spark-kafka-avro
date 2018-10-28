@@ -10,8 +10,8 @@ To build this project:
 Quickstart
 -----------
 
-Before running the examples, make sure that Zookeeper, Kafka and Schema Registry are
-running. In what follows, we assume that Zookeeper and Kafka started with the default settings.
+Before running the examples, make sure that Zookeeper and Kafka are running. In what follows, 
+we assume that Zookeeper and Kafka started with the default settings.
 Refer kafka quickstart guide for more info - https://kafka.apache.org/quickstart
 
 
